@@ -1,25 +1,29 @@
-h1,h3{
-    text-align: center;
-    
+h1,h3
+{
+    text-align: center; 
 }
 
-p{
+p
+{
     text-align: center;
 }
 
 
-.navigation{
+.navigation
+{
     margin: 20px 10px;
     text-align: center;
     
 }
-.navigation li{
+.navigation li
+{
     float: left;
     list-style-type: none;
     text-align: center;
     margin-left: 200px;
 }
-.list{
+.list
+{
     list-style-type: none;
     text-align: center;
 }
